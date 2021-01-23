@@ -3,7 +3,6 @@
 ## University Group Project 2020
 
 SKILLS I DEVELOPED: 
-* Bash / GitHub 
 * Java programming
   * IntelliJ IDEA
   *  abstract/sub Classes 
